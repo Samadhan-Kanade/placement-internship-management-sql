@@ -1,0 +1,1 @@
+-- Users table for login management
